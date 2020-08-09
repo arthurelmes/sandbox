@@ -16,10 +16,20 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30faf0c0-6a6a-4b41-873b-7fa8d000e6d7" name="Default Changelist" comment="test" />
+    <list default="true" id="30faf0c0-6a6a-4b41-873b-7fa8d000e6d7" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596974299734</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test">
+      <created>1596975887728</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596975887728</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,7 +155,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -162,30 +191,30 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="769" y="217" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596973368881" />
-    <state width="901" height="396" key="GridCell.Tab.0.bottom" timestamp="1596973574365">
+    <state width="1825" height="396" key="GridCell.Tab.0.bottom" timestamp="1596975896385">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="901" height="396" key="GridCell.Tab.0.bottom/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596973574365" />
-    <state width="901" height="396" key="GridCell.Tab.0.center" timestamp="1596973574365">
+    <state width="1825" height="396" key="GridCell.Tab.0.bottom/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596975896385" />
+    <state width="1825" height="396" key="GridCell.Tab.0.center" timestamp="1596975896385">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="901" height="396" key="GridCell.Tab.0.center/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596973574365" />
-    <state width="901" height="396" key="GridCell.Tab.0.left" timestamp="1596973574365">
+    <state width="1825" height="396" key="GridCell.Tab.0.center/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596975896385" />
+    <state width="1825" height="396" key="GridCell.Tab.0.left" timestamp="1596975896385">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="901" height="396" key="GridCell.Tab.0.left/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596973574365" />
-    <state width="901" height="396" key="GridCell.Tab.0.right" timestamp="1596973574365">
+    <state width="1825" height="396" key="GridCell.Tab.0.left/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596975896385" />
+    <state width="1825" height="396" key="GridCell.Tab.0.right" timestamp="1596975896385">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state width="901" height="396" key="GridCell.Tab.0.right/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596973574365" />
-    <state x="621" y="353" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596974319530">
+    <state width="1825" height="396" key="GridCell.Tab.0.right/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596975896385" />
+    <state x="621" y="353" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1596975930155">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="621" y="353" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596974319530" />
-    <state x="761" y="385" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596974059662">
+    <state x="621" y="353" width="800" height="535" key="Vcs.Push.Dialog.v2/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596975930155" />
+    <state x="761" y="385" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596975608294">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="761" y="385" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596974059662" />
+    <state x="761" y="385" width="438" height="177" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/72.27.1848.1053/72.27.1848.1053@72.27.1848.1053" timestamp="1596975608294" />
     <state x="758" y="454" width="465" height="206" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596974147105">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>

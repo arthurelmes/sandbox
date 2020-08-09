@@ -2,7 +2,7 @@
 Author: Arthur Elmes
 2020-08-08"""
 #Goof Troop
-Goof_Troop = "Pete", "Josh", "Arthur", "Bily"
+Goof_Troop = ["Pete", "Josh", "Arthur", "Bily"]
 
 #Wake Up
 print('Hello, World!')
