@@ -6,7 +6,7 @@ print('Hello, World!')
 name = input('May I ask who woke me up this morning?:')
 
 
-#print(a)
+#print(name)
 
 if 'Pete' in name:
     print('Josh has not been seen in years')
