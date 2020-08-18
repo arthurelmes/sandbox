@@ -13,11 +13,11 @@ name = input('May I ask who woke me up this morning?:')
 
 if 'Pete' in name:
     print('Guten Morgen Pete')
-if 'Josh' in name:
+elif 'Josh' in name:
     print('Oh, hi Josh!')
-if 'Arthur' in name:
+elif 'Arthur' in name:
     print('Good morning Captain!')
-if 'Bily' in name:
+elif 'Bily' in name:
     print('Good morning Mr. Astronaut')
 else:
     print('Hello? Anybody?')
