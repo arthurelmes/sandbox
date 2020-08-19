@@ -10,6 +10,7 @@ import requests
 import sys
 
 # set the url and send a GET request using requests module
+# here is the URL for ID on Deckers https://waterservices.usgs.gov/nwis/iv/?format=rdb&sites=03062500&parameterCd=00060,00065&siteType=ST&siteStatus=all
 url = "https://waterdata.usgs.gov/wv/nwis/current/?type=flow"
 req = requests.get(url)
 
